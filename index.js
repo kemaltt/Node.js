@@ -3,6 +3,7 @@
 // setTimeout(() => console.log("hello"), 3000);
 
 const fs = require("fs");
+// const { sayName, sayAge } = require("./employe");
 
 // fs.mkdir("students", { recursive: true }, (err) => {
 //     console.log("directory created");
@@ -14,5 +15,7 @@ const fs = require("fs");
 // console.log("this command runs before mkdir");
 
 // fs.mkdirSync("Project");
-fs.writeFileSync("app.css", "a");
-fs.writeFileSync("./Project/index.html", "a");
+// fs.writeFileSync("app.css", "a");
+// fs.writeFileSync("./Project/index.html", "a");
+
+//
